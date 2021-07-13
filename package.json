@@ -1,0 +1,15 @@
+{
+  "name": "capturewebsite_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pageres": "^6.2.3"
+  }
+}
